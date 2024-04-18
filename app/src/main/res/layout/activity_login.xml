@@ -13,7 +13,7 @@
         android:fontFamily="@font/dmserifdisplay_regular"
         android:text="Inicia sesión para\naventurarte con\nGo Piura."
         android:textColor="@color/black"
-        android:textSize="35sp"/>
+        android:textSize="35sp" />
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button1"
@@ -27,7 +27,6 @@
         android:text="Continuar con Google"
         android:textAllCaps="false" />
 
-
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button2"
         android:layout_width="300dp"
@@ -38,9 +37,6 @@
         android:fontFamily="@font/ptserif_regular"
         android:paddingLeft="15dp"
         android:text="Continuar con dirección de\n correo electrónico"
-        android:textAllCaps="false"
-
-        />
-
+        android:textAllCaps="false" />
 
 </LinearLayout>
