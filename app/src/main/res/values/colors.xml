@@ -11,6 +11,6 @@
     //primary
     <color name="color4">#16425B</color>
     <color name="color5">#81C3D7</color>
-
+    <color name="transparent">#00000000</color>
 
 </resources>
